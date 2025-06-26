@@ -22,23 +22,6 @@ Uma ferramenta GUI que transforma seus dados tabulares em páginas web interativ
 
 ---
 
-## 📥 Instalação
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/excel-to-html-converter.git
-cd excel-to-html-converter
-```
-
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
-> **Dica:** O projeto requer Python 3.7 ou superior.
-
----
-
 ## 🚀 Como Usar
 
 1. Execute a aplicação:
